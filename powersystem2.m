@@ -47,3 +47,4 @@ disp(X(1)*180/pi)
 disp('delta3')
 disp(X(2))*180/pi)
 %adding for git experiments purpose
+Adding through vim, so happy finally did it ! 
